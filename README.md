@@ -1,0 +1,2 @@
+# lintar
+apa kabar
